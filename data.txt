@@ -1,6 +1,0 @@
-encompass(v) 	: 	bao trùm, bao quanh, bao quát
-perspective(n)  :	viễn cảnh, quan điểm
-realignment(n)  : 	sự sắp xếp lại, việc sắp xếp lại
-involve(v)	     :	liên quan
-board(n)		:	hội đồng quản trị
-governance(n)	: 	sự cai trị, quản trị
