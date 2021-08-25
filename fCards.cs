@@ -144,7 +144,7 @@ namespace CoolestFlashCardAppEver
                 lblEng.Left = (this.ClientSize.Width - lblEng.Size.Width) / 2;
                 lblVi.Left = (this.ClientSize.Width - lblVi.Size.Width) / 2;
                 GetData();
-                GC.Collect();       
+                   
         }
         static Timer timer = new Timer();
         private void fCards_Load(object sender, EventArgs e)
