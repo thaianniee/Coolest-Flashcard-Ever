@@ -111,7 +111,8 @@ namespace CoolestFlashCardAppEver
             GetData();
             try
             {
-                num = rnd.Next(words.Length - 1);
+                Random rnd = new Random();
+                num = rnd.Next(0, words.Length);
             }
             catch
             {
@@ -126,13 +127,15 @@ namespace CoolestFlashCardAppEver
                     
                                                   
         }
-        static Random rnd = new Random();
+        
         static int num;
         void timer_Tick(object sender, EventArgs e)
         {
+            GetData();
             try
             {
-                num = rnd.Next(words.Length - 1);
+                Random rnd = new Random();
+                num = rnd.Next(0, words.Length);
             }
             catch
             {
@@ -143,7 +146,7 @@ namespace CoolestFlashCardAppEver
                 lblVi.Text = data[1];
                 lblEng.Left = (this.ClientSize.Width - lblEng.Size.Width) / 2;
                 lblVi.Left = (this.ClientSize.Width - lblVi.Size.Width) / 2;
-                GetData();
+                
                    
         }
         static Timer timer = new Timer();

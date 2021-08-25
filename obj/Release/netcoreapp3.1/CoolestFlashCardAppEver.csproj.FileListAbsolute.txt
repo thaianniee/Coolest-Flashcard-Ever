@@ -15,3 +15,4 @@ D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.pdb
 D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.genruntimeconfig.cache
 D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.Properties.Resources.resources
 D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.GeneratedMSBuildEditorConfig.editorconfig
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.csproj.AssemblyReference.cache
