@@ -1,0 +1,17 @@
+D:\CoolestFlashCardAppEver\bin\Release\netcoreapp3.1\CoolestFlashCardAppEver.exe
+D:\CoolestFlashCardAppEver\bin\Release\netcoreapp3.1\CoolestFlashCardAppEver.deps.json
+D:\CoolestFlashCardAppEver\bin\Release\netcoreapp3.1\CoolestFlashCardAppEver.runtimeconfig.json
+D:\CoolestFlashCardAppEver\bin\Release\netcoreapp3.1\CoolestFlashCardAppEver.runtimeconfig.dev.json
+D:\CoolestFlashCardAppEver\bin\Release\netcoreapp3.1\CoolestFlashCardAppEver.dll
+D:\CoolestFlashCardAppEver\bin\Release\netcoreapp3.1\CoolestFlashCardAppEver.pdb
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.fCards.resources
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.fCustomize.resources
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.csproj.GenerateResource.cache
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.AssemblyInfoInputs.cache
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.AssemblyInfo.cs
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.csproj.CoreCompileInputs.cache
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.dll
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.pdb
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.genruntimeconfig.cache
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.Properties.Resources.resources
+D:\CoolestFlashCardAppEver\obj\Release\netcoreapp3.1\CoolestFlashCardAppEver.GeneratedMSBuildEditorConfig.editorconfig
