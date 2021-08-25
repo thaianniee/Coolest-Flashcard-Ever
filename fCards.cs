@@ -111,7 +111,7 @@ namespace CoolestFlashCardAppEver
             GetData();
            
             Random rnd = new Random();
-            int num = rnd.Next(0, words.Length);
+            int num = rnd.Next(0, words.Length-1);
             string[] data = words[num].Split(':');
             lblEng.Text = data[0];
             lblVi.Text = data[1];
@@ -125,7 +125,7 @@ namespace CoolestFlashCardAppEver
         static int num;
         void timer_Tick(object sender, EventArgs e)
         {           
-            num = rnd.Next(0, words.Length);
+            num = rnd.Next(0, words.Length-1);
             string[] data = words[num].Split(':');
             lblEng.Text = data[0];
             lblVi.Text = data[1];
