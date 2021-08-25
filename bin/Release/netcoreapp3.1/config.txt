@@ -2,4 +2,4 @@ StartPosition: 1400 34
 Back: 168 227 227
 Eng: 59 46 97
 Vi: 54 91 107
-Time: 10
+Time: 1

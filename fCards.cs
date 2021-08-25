@@ -109,9 +109,14 @@ namespace CoolestFlashCardAppEver
             InitializeComponent();          
             ConfigurationFlashCard();
             GetData();
-           
-            Random rnd = new Random();
-            int num = rnd.Next(0, words.Length-1);
+            try
+            {
+                num = rnd.Next(words.Length - 1);
+            }
+            catch
+            {
+                num = 0;
+            }
             string[] data = words[num].Split(':');
             lblEng.Text = data[0];
             lblVi.Text = data[1];
@@ -124,16 +129,22 @@ namespace CoolestFlashCardAppEver
         static Random rnd = new Random();
         static int num;
         void timer_Tick(object sender, EventArgs e)
-        {           
-            num = rnd.Next(0, words.Length-1);
-            string[] data = words[num].Split(':');
-            lblEng.Text = data[0];
-            lblVi.Text = data[1];
-            lblEng.Left = (this.ClientSize.Width - lblEng.Size.Width) / 2;
-            lblVi.Left = (this.ClientSize.Width - lblVi.Size.Width) / 2;
-            GetData();
-            GC.Collect();
-        
+        {
+            try
+            {
+                num = rnd.Next(words.Length - 1);
+            }
+            catch
+            {
+                num = 0;
+            }
+                string[] data = words[num].Split(':');
+                lblEng.Text = data[0];
+                lblVi.Text = data[1];
+                lblEng.Left = (this.ClientSize.Width - lblEng.Size.Width) / 2;
+                lblVi.Left = (this.ClientSize.Width - lblVi.Size.Width) / 2;
+                GetData();
+                GC.Collect();       
         }
         static Timer timer = new Timer();
         private void fCards_Load(object sender, EventArgs e)
