@@ -19,4 +19,4 @@ ethic:đạo đức(n), thuộc về luân lý(a)
 erode(v):xói mòn
 compensation(n):sự đền bù, sự bồi thường
 evaluation(n):sự ước lượng, sự định giá
-e.g = for example
+e.g = for example:
