@@ -1,7 +1,9 @@
+Key:Value
+Key1 = Key2:
 encompass(v):bao trùm, bao quanh, bao quát
 perspective(n):viễn cảnh, quan điểm
 realignment(n):sự sắp xếp lại, việc sắp xếp lại
-involve(v):liên quan
+involve(v) in:liên quan, tham gia vào
 board(n):hội đồng quản trị
 board(n):bảng
 governance(n):sự cai trị, quản trị
@@ -11,7 +13,7 @@ tend to V:có xu hướng
 emphasis(n):sự nhấn mạnh, sự chú trọng
 relevance(n):sự liên quan
 extent(n):khu vực, phạm vi, quy mô
-fundamental(a):cơ bản, cơ sở, chủ yếu
+fundamental(a) : cơ bản, cơ sở, chủ yếu
 sector = area : 
 dispute = disagreement :
 stimulate(v):kích thích, khích động, khuyến khích
@@ -19,4 +21,20 @@ ethic:đạo đức(n), thuộc về luân lý(a)
 erode(v):xói mòn
 compensation(n):sự đền bù, sự bồi thường
 evaluation(n):sự ước lượng, sự định giá
-e.g = for example:
+e.g = for example :  
+former(a):trước, cựu
+route(n):tuyến đường, lộ trình
+route(v):định tuyến(computers network)
+itinerary(n):hành trình, kế hoạch về hành trình
+boredom(n):sự chán nản, tình trạng buồn chán
+productive(a):năng suất tốt, hữu ích, hiệu quả
+potential(a):tiềm tàng, tiềm ẩn
+arise(v):nảy sinh, nổi lên
+classification(n):sự phân chia, sự phân loại
+interest(n): lãi suất
+boycott(n):tẩy chay, bài trừ
+frustration(n):tâm trạng thất vọng, sự làm hỏng
+apathy(n):sự vô cảm, hờ hững
+indifference(n):sự thờ ơ, sự dửng dưng
+long-haul(n): a long distance
+infectious(a):truyền nhiễm
